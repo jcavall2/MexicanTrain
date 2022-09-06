@@ -1,0 +1,76 @@
+﻿  Computer.cpp
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(110,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(123,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(149,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(245,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(281,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(317,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(373,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(408,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(443,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(502,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(538,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(574,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(629,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(656,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(682,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(724,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(752,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(779,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(821,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(849,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(875,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(912,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(942,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(959,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(978,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1000,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1023,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1049,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1070,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1096,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1116,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1145,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1167,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1192,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1214,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1241,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1263,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1294,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1317,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1343,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1363,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1388,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1409,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1437,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1457,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1478,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1503,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1521,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Computer.cpp(1539,22): warning C4018: '<': signed/unsigned mismatch
+  Deck.cpp
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Deck.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Deck.cpp(61,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Deck.cpp(104,20): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Game.cpp(240,20): warning C4018: '<': signed/unsigned mismatch
+  Human.cpp
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Human.cpp(113,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Human.cpp(141,20): warning C4018: '<': signed/unsigned mismatch
+  MexicanTrain.cpp
+  Round.cpp
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Round.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Round.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Round.cpp(84,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Round.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Round.cpp(149,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Round.cpp(887,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Round.cpp(924,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Round.cpp(961,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Round.cpp(986,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Round.cpp(991,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Round.cpp(1317,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\MexicanTrain\MexicanTrain\Round.cpp(1328,20): warning C4018: '<': signed/unsigned mismatch
+  Tile.cpp
+  Generating Code...
+  MexicanTrain.vcxproj -> C:\Users\Joe\source\repos\MexicanTrain\Debug\MexicanTrain.exe
